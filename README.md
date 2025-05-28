@@ -21,6 +21,12 @@ A sleek and interactive Password Generator built with **HTML**, **CSS**, and **J
 (https://drive.google.com/file/d/1MG25x8NPg5mcss5ZCMC5etcXygaNg7FV/view?usp=sharing)
 
 ## 📁 File Structure
+📁 Password Generator/
+├── index.html # HTML structure
+├── style.css # Custom styles
+├── script.js # App logic
+└── assets/
+└── copy.svg # Copy icon
 
 
 ## 🛠️ Technologies Used
