@@ -2,7 +2,7 @@
 
 A sleek and interactive Password Generator built with **HTML**, **CSS**, and **JavaScript**. This tool allows users to generate strong and customizable passwords by selecting desired criteria such as character length, uppercase letters, lowercase letters, numbers, and symbols.
 
-. Random Password Genertor App is live https://altamashraza3.github.io/Random-Password-Generator/
+. Password Generator Web App is live https://altamashraza3.github.io/Random-Password-Generator/
 
 ## 🚀 Features
 
